@@ -8,4 +8,4 @@
     b.$ git config --global user.name "Your Name"
     c.$ git config --global credential.helper wincred
 
-6、在vscode中，使用快捷键“Ctrl+Shift+P”，打开vscode命令框，在框中输入“git clone”并回车，然后在文本框中输入git代码库的地址
+4、在vscode中，使用快捷键“Ctrl+Shift+P”，打开vscode命令框，在框中输入“git clone”并回车，然后在文本框中输入git代码库的地址
