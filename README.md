@@ -4,7 +4,7 @@
 1、下载安装vscode
 2、下载安装git
 3、在git的bash中运行命令
-    a.$ git config --global user.email "you@example.com"
+    a.$ git config --global user.email "your@example.com"
     b.$ git config --global user.name "Your Name"
     c.$ git config --global credential.helper wincred
 
